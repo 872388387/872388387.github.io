@@ -1,0 +1,11 @@
+旋转 div 90°
+
+
+css
+.{
+transform: rotate(40deg);
+-o-transform: rotate(40deg);
+-webkit-transform: rotate(40deg);
+-moz-transform: rotate(40deg);
+filter:progid:DXImageTransform.Microsoft.BasicImage(Rotation=2);
+}
